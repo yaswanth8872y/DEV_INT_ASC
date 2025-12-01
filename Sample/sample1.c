@@ -37,6 +37,7 @@ int main() {
     printf("Multiply: %d\n", multiply(x, y));
     printf("Divide: %.2f\n", divide(x, y));
 
+    printMessage();//will print messages
     printMessage();
 
     return 0;
