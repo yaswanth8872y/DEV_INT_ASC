@@ -8,6 +8,7 @@ int add(int a, int b) {
 // Function 2: Subtracts two numbers
 int subtract(int a, int b) {
     return a - b;
+    //Substraction
 }
 
 // Function 3: Multiplies two numbers
