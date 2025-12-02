@@ -13,6 +13,7 @@ int subtract(int a, int b) {
 // Function 3: Multiplies two numbers
 int multiply(int a, int b) {
     return a * b;
+    //Multiplication
 }
 
 // Function 4: Divides two numbers (safe check)
