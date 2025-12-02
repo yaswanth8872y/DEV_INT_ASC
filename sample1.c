@@ -8,7 +8,6 @@ int add(int a, int b) {
 // Function 2: Subtracts two numbers
 int subtract(int a, int b) {
     return a - b;
-    //Substraction
 }
 
 // Function 3: Multiplies two numbers
@@ -42,6 +41,6 @@ int main() {
     printMessage();//will print messages
     printMessage();
     //insert new tab
-
+	//Testing 
     return 0;
 }
